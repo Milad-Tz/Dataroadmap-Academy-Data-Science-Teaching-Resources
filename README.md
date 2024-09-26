@@ -25,12 +25,5 @@ After cloning the repository, navigate to the directory and run:
 - Machine Learning: Regression Techniques
 - Machine Learning: Classification Techniques
 
-## Topics Covered
-This repository includes notebooks for different topics, ensuring a variety of examples and exercises:
-- Introduction to Data Science and Python Basics
-- Data Manipulation and Cleaning with Pandas
-- Exploratory Data Analysis (EDA)
-- Introduction to Machine Learning (Regression and Classification)
-
 ## License
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
